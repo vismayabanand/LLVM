@@ -1,7 +1,7 @@
-# CS201-Template
+# LLVM Compilers Project
 This template is prepared for all three projects: HelloPass, Reaching Definition Analysis and Common Subexpression Elimination.
 
-LLVM folder is used for installing LLVM, and you can read the instructions in CS201_Project_Part1.pdf for compilation instructions.
+LLVM folder is used for installing LLVM, and you can read the instructions for compilation instructions.
 Pass folder contains all three passes for those 3 projects.
 test folder contains the example input/output for those 3 projects. For example, [1.ll](test/phase2/1.ll) is the input file and [1.out](test/phase2/1.out) is the output.
 
