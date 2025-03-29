@@ -1,0 +1,6 @@
+/home/ranjitha/compilers/CS201-F24-Template/Pass/HelloPass/CMakeFiles/intrinsics_gen.dir
+/home/ranjitha/compilers/CS201-F24-Template/Pass/HelloPass/CMakeFiles/omp_gen.dir
+/home/ranjitha/compilers/CS201-F24-Template/Pass/HelloPass/CMakeFiles/acc_gen.dir
+/home/ranjitha/compilers/CS201-F24-Template/Pass/HelloPass/CMakeFiles/HelloPass.dir
+/home/ranjitha/compilers/CS201-F24-Template/Pass/HelloPass/CMakeFiles/edit_cache.dir
+/home/ranjitha/compilers/CS201-F24-Template/Pass/HelloPass/CMakeFiles/rebuild_cache.dir
